@@ -393,9 +393,9 @@ a:hover {
         background-repeat: no-repeat;
         background-size: cover;
         padding: 2rem;
-        width: 52vw;
-        height: 60vh;
-        margin-left: 6rem;
+        width: 63%;
+        height: 59vh;
+        /* margin-left: 6rem; */
     }
 
     .right_col {
